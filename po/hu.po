@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nautilus-code 3.alpha\n"
 "Report-Msgid-Bugs-To: realmazharhussain@gmail.com\n"
-"POT-Creation-Date: 2023-02-27 17:58+0500\n"
-"PO-Revision-Date: 2023-02-28 14:07+0100\n"
+"POT-Creation-Date: 2025-10-02 19:22+0500\n"
+"PO-Revision-Date: 2026-01-16 15:13+0100\n"
 "Last-Translator: infeeeee <gyetpet@mailbox.org>\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Gtranslator 49.0\n"
 
 #: NautilusCode/types.py:23
 msgid "Unknown"
@@ -30,7 +30,7 @@ msgstr "Natív"
 msgid "Flatpak"
 msgstr "Flatpak"
 
-#: NautilusCode/types.py:171
+#: NautilusCode/types.py:175
 #, python-format
 msgid "Open in %s"
 msgstr "Megnyitás %s"
@@ -39,30 +39,142 @@ msgstr "Megnyitás %s"
 msgid "Code-OSS"
 msgstr "Code-OSS-szel"
 
-#: NautilusCode/program_list.py:11
+#: NautilusCode/program_list.py:12
 msgid "VSCode"
 msgstr "VSCode-dal"
 
-#: NautilusCode/program_list.py:21
+#: NautilusCode/program_list.py:22
 msgid "VSCode (Insiders)"
 msgstr "VSCode (Insiders)-szel"
 
-#: NautilusCode/program_list.py:25
+#: NautilusCode/program_list.py:27
 msgid "VSCodium"
 msgstr "VSCodiummal"
 
-#: NautilusCode/program_list.py:29
+#: NautilusCode/program_list.py:32
+msgid "VSCodium (Insiders)"
+msgstr "VSCodium (Insiders)-szel"
+
+#: NautilusCode/program_list.py:37
 msgid "Builder"
 msgstr "Építővel"
 
-#: NautilusCode/program_list.py:34
+#: NautilusCode/program_list.py:42
 msgid "Sublime"
 msgstr "Sublime-mal"
 
-#: NautilusCode/program_list.py:38
+#: NautilusCode/program_list.py:46
+msgid "Android Studio"
+msgstr "Android Studióval"
+
+#: NautilusCode/program_list.py:50
+msgid "Aqua"
+msgstr "Aquával"
+
+#: NautilusCode/program_list.py:53
+msgid "CLion"
+msgstr "CLionnal"
+
+#: NautilusCode/program_list.py:57
+msgid "CLion (EAP)"
+msgstr "CLion (EAP)-val"
+
+#: NautilusCode/program_list.py:60
+msgid "Cursor"
+msgstr "Cursorral"
+
+#: NautilusCode/program_list.py:63
+msgid "DataGrip"
+msgstr "DataGrippel"
+
+#: NautilusCode/program_list.py:67
+msgid "DataGrip (EAP)"
+msgstr "DataGrip (EAP)-val"
+
+#: NautilusCode/program_list.py:70
+msgid "DataSpell"
+msgstr "DaraSpellel"
+
+#: NautilusCode/program_list.py:73
+msgid "DataSpell (EAP)"
+msgstr "DataSpell (EAP)-val"
+
+#: NautilusCode/program_list.py:76
+msgid "Fleet"
+msgstr "Fleettel"
+
+#: NautilusCode/program_list.py:79
+msgid "GoLand"
+msgstr "GoLanddal"
+
+#: NautilusCode/program_list.py:83
+msgid "GoLand (EAP)"
+msgstr "GoLand (EAP)-val"
+
+#: NautilusCode/program_list.py:89
+msgid "IntelliJ IDEA"
+msgstr "IntelliJ IDEA-val"
+
+#: NautilusCode/program_list.py:92
+msgid "IntelliJ IDEA (EAP)"
+msgstr "IntelliJ IDEA (EAP)-val"
+
+#: NautilusCode/program_list.py:95
+msgid "IntelliJ IDEA Community"
+msgstr "IntelliJ IDEA Communityvel"
+
+#: NautilusCode/program_list.py:98
+msgid "IntelliJ IDEA Ultimate"
+msgstr "IntelliJ IDEA Ultimate-tel"
+
+#: NautilusCode/program_list.py:101
+msgid "MPS"
+msgstr "MPS-szel"
+
+#: NautilusCode/program_list.py:104
 msgid "PhpStorm"
 msgstr "PhpStormmal"
 
-#: NautilusCode/program_list.py:42
+#: NautilusCode/program_list.py:108
 msgid "PhpStorm (EAP)"
 msgstr "PhpStorm (EAP)-val"
+
+#: NautilusCode/program_list.py:114
+msgid "PyCharm"
+msgstr "PyCharmmal"
+
+#: NautilusCode/program_list.py:117
+msgid "PyCharm (EAP)"
+msgstr "PyCharm (EAP)-val"
+
+#: NautilusCode/program_list.py:120
+msgid "PyCharm Professional"
+msgstr "PyCharm Professionallal"
+
+#: NautilusCode/program_list.py:123
+msgid "PyCharm Community"
+msgstr "PyCharm Communityval"
+
+#: NautilusCode/program_list.py:126
+msgid "Rider"
+msgstr "Riderrel"
+
+#: NautilusCode/program_list.py:130
+msgid "RubyMine"
+msgstr "RubyMine-nal"
+
+#: NautilusCode/program_list.py:134
+msgid "RubyMine (EAP)"
+msgstr "RubyMine (EAP)-val"
+
+#: NautilusCode/program_list.py:137
+msgid "WebStorm"
+msgstr "WebStormmal"
+
+#: NautilusCode/program_list.py:141
+msgid "WebStorm (EAP)"
+msgstr "WebStorm (EAP)-val"
+
+#: NautilusCode/program_list.py:144
+msgid "Zed"
+msgstr "Zeddel"
